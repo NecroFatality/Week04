@@ -1,3 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-# Week03
-# Week03
+This is a starter template for Next.js I made a little snippet of my recipe book to share. 
+# Week04
