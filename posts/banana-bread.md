@@ -7,7 +7,7 @@ date: '2025-10-01'
 
 Banana Bread Recipe
 
-Try my favorite Banana Bread for a sweet, rich, quick bread with a wonderfully tender and moist crumb.
+Try this awesome Banana Bread for a sweet, rich, quick bread with a wonderfully tender and moist crumb. Don't forget the Honey Butter Glaze on top (✿◠‿◠)
  
  **Prep Time** 10 minutes
 
